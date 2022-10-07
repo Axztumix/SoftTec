@@ -1,3 +1,3 @@
 Proyecto Ciclo Cuatro MinTic
 
-Evidencia de comentario del proyect
+Evidencia de comentario del proyecto Mintic
